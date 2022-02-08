@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
     height: 30,
     width: 30,
     marginLeft: 20,
-    marginTop: 5,
+    marginTop: 4,
     color: "white"
   }
 
